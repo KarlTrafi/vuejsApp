@@ -1,0 +1,6 @@
+.tuto-rotate-enter{
+    transform : rotateY(90deg);
+}
+.tuto-rotate-enter-to{
+    transition: all 0.7s ease;
+}
